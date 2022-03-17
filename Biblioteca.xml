@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2022-03-15T14:06:22Z</date>
+	<key>Application Version</key><string>12.12.3.5</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/C:/Users/gusta/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>CC8F55C19A0FB4CC</string>
+	<key>Tracks</key>
+	<dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Biblioteca</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>68</integer>
+			<key>Playlist Persistent ID</key><string>4A0E91D8B4629889</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Baixado</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>71</integer>
+			<key>Playlist Persistent ID</key><string>8B31860CAB0DD2C6</string>
+			<key>Distinguished Kind</key><integer>65</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Música</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>74</integer>
+			<key>Playlist Persistent ID</key><string>7B7A4C967050B142</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Baixado</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>86</integer>
+			<key>Playlist Persistent ID</key><string>514E676BC82F5EAD</string>
+			<key>Distinguished Kind</key><integer>66</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Filmes</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>89</integer>
+			<key>Playlist Persistent ID</key><string>1938F7CB774BB882</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Baixado</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>95</integer>
+			<key>Playlist Persistent ID</key><string>75D2F3AD22D742E3</string>
+			<key>Distinguished Kind</key><integer>67</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Programas de TV</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>98</integer>
+			<key>Playlist Persistent ID</key><string>9C3A665AD387F940</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>101</integer>
+			<key>Playlist Persistent ID</key><string>BDA9047F74CD0572</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiolivros</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>108</integer>
+			<key>Playlist Persistent ID</key><string>83938F9477DA042B</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>111</integer>
+			<key>Playlist Persistent ID</key><string>604D97D869BEA98D</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+	</array>
+</dict>
+</plist>
